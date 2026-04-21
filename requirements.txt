@@ -1,4 +1,4 @@
-lxml==3.7.3
+lxml==6.1.0
 click==6.7
 
 # testing
